@@ -2,7 +2,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jackasshunt&color=red&style=plastic&label=guests"
 </p>
 <p align="center"> <b><u> you can't have no fun with an Unloaded gun .. </u></b> 
-<p align="center"><img src="https://s6.gifyu.com/images/bpMjp.png" width="600">
+<p align="center"><img src="https://s6.gifyu.com/images/bpMjp.png" width="400">
 </p>
 
 

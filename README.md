@@ -4,7 +4,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jackasshunt&color=red&style=plastic&label=guests"
 </p>
 
-<p align="center"><img src="https://s4.gifyu.com/images/bLp4m.png" width="300">
+<p align="center"><img src="https://s4.gifyu.com/images/bLUGG.png" width="300">
 </p>
 
 

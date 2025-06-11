@@ -1,14 +1,14 @@
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=jackasshunt&color=green&style=plastic&label=guests"
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jackasshunt&color=red&style=plastic&label=guests"
 </p>
 
-<p align="center"><img src="https://s4.gifyu.com/images/bLUGG.png" width="300">
+<p align="center"><img src="https://64.media.tumblr.com/0efd4cf750ab06cb92d793d183b87460/52d8a2fb261cf50b-ca/s250x400/309fcb10ed5921c56a5605fc52ad45a908b0781d.gif" width="400">
 </p>
 
 
 
- <p align="center"><b><u><a href="https://www.tumblr.com/jackasshunt/">art blog</a> &nbsp <a href="https://listography.com/huntingjackass">listography</a></u></b></p>
+ <p align="center"><b><u><a href="https://www.tumblr.com/jackasshunt/">Art Blog (Tumblr)</a> &nbsp <a href="https://jackasshunt.atabook.org/">AtaBook</a></u></b></p>
 
 <p align="center"><img src="![image](https://s4.gifyu.com/images/bLp4m.png)" width="600">
 </p>

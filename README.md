@@ -3,7 +3,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jackasshunt&color=red&style=plastic&label=guests"
 </p>
 
-<p align="center"><img src="https://64.media.tumblr.com/0efd4cf750ab06cb92d793d183b87460/52d8a2fb261cf50b-ca/s250x400/309fcb10ed5921c56a5605fc52ad45a908b0781d.gif" width="400">
+<p align="center"><img src="https://i.pinimg.com/736x/7a/2f/6a/7a2f6a050d9e1a4f08da88d76ec2c39c.jpg" width="600">
 </p>
 
 
@@ -17,3 +17,4 @@
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312ke25wwyc6y2z6txuscygtjbg4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </p>
 
+<p align="center"><img src="https://64.media.tumblr.com/f779b710ca2d4cab751bb590412592b5/3c74d06b377fdc9b-31/s400x600/7a8d40e04ca920852471fa9f0db7ea72e350ca96.gif" width="300"></p>

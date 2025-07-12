@@ -3,7 +3,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jackasshunt&color=red&style=plastic&label=guests"
 </p>
 
-<p align="center"><img src="https://64.media.tumblr.com/0efd4cf750ab06cb92d793d183b87460/52d8a2fb261cf50b-ca/s250x400/309fcb10ed5921c56a5605fc52ad45a908b0781d.gif" width="400">
+<p align="center"><img src="https://s14.gifyu.com/images/bKhtj.png" width="300">
 </p>
 
 

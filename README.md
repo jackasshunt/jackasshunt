@@ -3,7 +3,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jackasshunt&color=red&style=plastic&label=guests"
 </p>
 
-<p align="center"><img src="https://s14.gifyu.com/images/bKhtj.png" width="300">
+<p align="center"><img src="https://media.discordapp.net/attachments/1377247774327836766/1398699780108193862/OIP.png?ex=6886502e&is=6884feae&hm=4ec1f25c2d776c0c767b208cff597976985b1c5ee646aeefb2eb4d7a66bfa1a1&=&format=webp&quality=lossless&width=225&height=293" width="200">
 </p>
 
 
